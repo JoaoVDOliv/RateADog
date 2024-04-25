@@ -1,0 +1,14 @@
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\bin\Debug\net8.0\RatingMyGirlFriendDogs.exe
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\bin\Debug\net8.0\RatingMyGirlFriendDogs.deps.json
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\bin\Debug\net8.0\RatingMyGirlFriendDogs.runtimeconfig.json
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\bin\Debug\net8.0\RatingMyGirlFriendDogs.dll
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\bin\Debug\net8.0\RatingMyGirlFriendDogs.pdb
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.AssemblyInfoInputs.cache
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.AssemblyInfo.cs
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.dll
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\refint\RatingMyGirlFriendDogs.dll
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.pdb
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.genruntimeconfig.cache
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\ref\RatingMyGirlFriendDogs.dll
