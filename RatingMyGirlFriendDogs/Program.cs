@@ -23,6 +23,7 @@ void menu()
         Console.WriteLine("1. List of Dogs");
         Console.WriteLine("2. Rate a Dog");
         Console.WriteLine("3. Show Dogs and Notes");
+        Console.WriteLine("4. Calc avarage of dog");
         Console.WriteLine("0. Exit");
 
         menuIterator = Convert.ToInt32(Console.ReadLine()); 
@@ -40,6 +41,12 @@ void menu()
                 break;
             case 3:
                 showDogRate();
+                break;
+            case 4:
+                calcDogAverage();
+                break;
+            default:
+                Console.WriteLine("Invalid choice");
                 break;
         }
 
@@ -106,6 +113,27 @@ void showDogRate()
         }
 
         Console.WriteLine("");
+    }
+}
+
+void calcDogAverage()
+{
+    string dogName;
+    double avarage = 0;
+
+    Console.WriteLine("Please, type the name of dog do you want to calc the media:");
+
+    dogName = Console.ReadLine();
+
+    if (dogList.ContainsKey(dogName))
+    {
+        avarage = dogList[dogName].Average();
+
+        Console.WriteLine($"The average {avarage.ToString("F2")} to dog {dogName}");
+    }
+    else
+    {
+        Console.WriteLine("We couldn't find any Dog, please try again");
     }
 }
 

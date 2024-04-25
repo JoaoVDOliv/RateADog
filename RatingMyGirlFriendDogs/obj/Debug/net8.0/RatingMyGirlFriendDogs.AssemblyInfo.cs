@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RatingMyGirlFriendDogs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6192f4d41b7e1c6d9365dbc79a241ba5c30db426")]
 [assembly: System.Reflection.AssemblyProductAttribute("RatingMyGirlFriendDogs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RatingMyGirlFriendDogs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

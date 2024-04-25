@@ -12,3 +12,4 @@ D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug
 D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.pdb
 D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.genruntimeconfig.cache
 D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\ref\RatingMyGirlFriendDogs.dll
+D:\Projects\CSharp\Alura\RatingMyGirlFriendDogs\RatingMyGirlFriendDogs\obj\Debug\net8.0\RatingMyGirlFriendDogs.sourcelink.json
